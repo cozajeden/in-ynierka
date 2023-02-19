@@ -1,0 +1,87 @@
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <title>Panel kontrolny</title>
+    <link rel="stylesheet" href="/assets/bootstrap.css">
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+    <div class="container" id="app">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="text-center">Panel kontrolny</h1>
+            </div>
+        </div>
+        <div class="row" v-if="sensors.length === 0">
+            <div class="col-12">
+                <div class="text-danger fw-bold text-center" >
+                    Nie ma podłączonych czujników, do których można wysyłać polecenia. Podłącz czujnik i odśwież panel.
+                </div>
+            </div>
+        </div>
+        <div class="row" v-else>
+            <h4 class="text-center my-5">Ustawienia czujnika</h4>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-4 text-center">
+                        <h4>ID czujnika</h4>
+                        <select name="id" id="id" v-model="chosenId">
+                            <option v-for="sensor in sensors" :key="sensor.id" :value="sensor.id">{{sensor.id}}</option>
+                        </select>
+                    </div>
+                    <div class="col-2 text-center">
+                        <h4>Opcje IMU</h4>
+                            <select name="imuG" id="imuG" v-model="chosenImuG">
+                                <option v-for="(label, val) in imuG" :key="val" :value="val">{{label}}</option>
+                            </select>
+                            <select name="imuDPS" id="imuDPS" v-model="chosenImuDPS">
+                                <option v-for="(label, val) in imuDPS" :key="val" :value="val">{{label}}</option>
+                            </select>
+                        <button class="btn btn-secondary mt-3" @click="sendImuConfig">Wyślij ustawienia IMU</button>
+                    </div>
+                    <div class="col-2 text-center">
+                        <h4>Opcje Mic</h4>
+                        <select name="mic" id="mic" v-model="chosenMic">
+                            <option v-for="(label, val) in mic" :key="val" :value="val">{{label}}</option>
+                        </select>
+                        <button class="btn btn-secondary mt-3" @click="sendMicConfig">Wyślij ustawienia MIC</button>
+                    </div>
+                    <div class="col-4 text-center">
+                        <h4>Status czujnika</h4>
+                        <select name="status-sensor" id="status-sensor" v-model="statusSensor">
+                            <option value="1">Imu</option>
+                            <option value="2">Mic</option>
+                        </select>
+                        <br>
+                        <button class="btn btn-secondary mt-5" @click="turnOn">Włącz czujnik</button>
+                        <button class="btn btn-secondary mt-5" @click="turnOff">Wyłącz czujnik</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="container">
+                        <div class="row">
+                            <div class="offset-4 col-4">
+                                <h4 class="text-center mt-5">Komunikaty</h4>
+                                <ul class="messages">
+                                    <li v-for="message in messages" :class="message.kind === SUCCESS ? 'text-success': 'text-danger'" class="fw-bold">
+                                        {{message.time}} {{message.content}}
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        const sensors = [[.sensors]]
+        const imuG = [[.imuOptionsG]]
+        const imuDPS = [[.imuOptionsDPS]]
+        const mic = [[.micOptions]]
+    </script>
+    <script src="/assets/axios.js"></script>
+    <script src="/assets/vue.js"></script>
+    <script src="/assets/script.js"></script>
+</body>
+</html>

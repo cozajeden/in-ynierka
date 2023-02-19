@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208.19791mm"
+   height="196.02727mm"
+   viewBox="0 0 208.19791 196.02727"
+   version="1.1"
+   id="svg12724"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="schemat_watkow_obslugi_czujnikow.svg"
+   inkscape:export-filename="schemat_watkow_obslugi_czujnikow.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12726"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0759173"
+     inkscape:cx="343.89259"
+     inkscape:cy="418.24775"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12931"
+       originx="6.8645809"
+       originy="-7.9375008" />
+  </sodipodi:namedview>
+  <defs
+     id="defs12721">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.8645806,-7.9375005)">
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stop-color:#000000"
+       id="rect12985"
+       width="50.020832"
+       height="15.375001"
+       x="74.083336"
+       y="8.1875"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.80564px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.299843"
+       y="14.23562"
+       id="text12989"><tspan
+         sodipodi:role="line"
+         id="tspan12987"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="76.299843"
+         y="14.23562">Wątek obsługujący</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="76.299843"
+         y="20.24267"
+         id="tspan12991">połączenia</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 97.895833,23.8125 V 34.395833"
+       id="path13404"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.895835,34.395834 v 15.875"
+       id="path13404-3"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.75,34.395833 H 21.166666"
+       id="path13406"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 21.166666,34.395833 V 44.979166"
+       id="path13408"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.75,34.395833 H 177.27083"
+       id="path13410"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 177.27083,34.395833 V 44.979166"
+       id="path13414"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.25283px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.521175"
+       y="31.636854"
+       id="text13476"><tspan
+         sodipodi:role="line"
+         id="tspan13474"
+         style="stroke-width:0.264583"
+         x="20.521175"
+         y="31.636854">1...n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.25283px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.75035"
+       y="31.64846"
+       id="text13476-7"><tspan
+         sodipodi:role="line"
+         id="tspan13474-5"
+         style="stroke-width:0.264583"
+         x="160.75035"
+         y="31.64846">1...n</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stop-color:#000000"
+       id="rect13517"
+       width="55.562496"
+       height="15.375001"
+       x="-6.6145811"
+       y="47.625"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.80564px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-4.3980746"
+       y="53.673122"
+       id="text13523"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="-4.3980746"
+         y="53.673122"
+         id="tspan13521">Wątek interpretujący </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="-4.3980746"
+         y="59.680172"
+         id="tspan13527">wiadomości</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stop-color:#000000"
+       id="rect13529"
+       width="46.05209"
+       height="15.375001"
+       x="155.03123"
+       y="48.125"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.80564px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="157.24774"
+       y="54.173122"
+       id="text13535"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="157.24774"
+         y="54.173122"
+         id="tspan13533">Wątek zapisujący </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="157.24774"
+         y="60.180172"
+         id="tspan13539">dane</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 4.1846796,65.895819 c 0,21.166668 31.7499994,21.166668 31.7499994,0"
+       id="path13553"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.33754px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="0.54165393"
+       y="87.866852"
+       id="text13639"><tspan
+         sodipodi:role="line"
+         id="tspan13635"
+         style="font-size:3.33754px;stroke-width:0.264583"
+         x="0.54165393"
+         y="87.866852">nasłuchiwanie i działanie,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.33754px;stroke-width:0.264583"
+         x="0.54165393"
+         y="92.03878"
+         id="tspan13637">nieskończona pętla</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.33754px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.484772"
+       y="63.818733"
+       id="text13639-2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.484772"
+         y="63.818733"
+         id="tspan13926">Oczekiwanie na </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.484772"
+         y="67.990662"
+         id="tspan13930">nowe  połączenia</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 162.50282,65.895819 c 0,21.166668 31.75,21.166668 31.75,0"
+       id="path13653"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleStart);stop-color:#000000"
+       id="path13788"
+       sodipodi:type="arc"
+       sodipodi:cx="97.895836"
+       sodipodi:cy="64.822914"
+       sodipodi:rx="14.552083"
+       sodipodi:ry="14.552083"
+       sodipodi:start="0.5669042"
+       sodipodi:end="6.0196406"
+       sodipodi:arc-type="arc"
+       d="M 110.1715,72.637719 A 14.552083,14.552083 0 0 1 92.779156,78.445789 14.552083,14.552083 0 0 1 83.51083,62.624112 14.552083,14.552083 0 0 1 97.082326,50.293588 14.552083,14.552083 0 0 1 111.94547,61.032031"
+       sodipodi:open="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.21077px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="117.58479"
+       y="32.304356"
+       id="text13940"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="117.58479"
+         y="32.304356"
+         id="tspan13938">utworzenie wątków</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.21077px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.209805"
+       y="32.304356"
+       id="text14051"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="38.209805"
+         y="32.304356"
+         id="tspan14049">utworzenie wątków</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 97.895837,78.845841 V 100.54167"
+       id="path14053"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.33754px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.25797"
+       y="87.203194"
+       id="text14077"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="100.25797"
+         y="87.203194"
+         id="tspan14075">Utworzenie wątku dla</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="100.25797"
+         y="91.375122"
+         id="tspan14081">nowego połączenia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.33754px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="159.29167"
+       y="87.866852"
+       id="text14087"><tspan
+         sodipodi:role="line"
+         id="tspan14083"
+         style="font-size:3.33754px;stroke-width:0.264583"
+         x="159.29167"
+         y="87.866852">nasłuchiwanie i działanie,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.33754px;stroke-width:0.264583"
+         x="159.29167"
+         y="92.03878"
+         id="tspan14085">nieskończona pętla</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stop-color:#000000"
+       id="rect14141"
+       width="53.989582"
+       height="15.375001"
+       x="70.901039"
+       y="103.1875"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.80564px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.44046"
+       y="108.98562"
+       id="text14147"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="74.44046"
+         y="108.98562"
+         id="tspan14157">Wątek obsługujący </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="74.44046"
+         y="114.99267"
+         id="tspan14161">pojedynczy czujnik</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.895834,118.53337 v 26.98746"
+       id="path14190"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-dasharray:2, 2;stroke-dashoffset:0;stop-color:#000000"
+       id="rect14202"
+       width="30.27771"
+       height="8.4667816"
+       x="82.756973"
+       y="126.22073"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.95911px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="98.031677"
+       y="129.76791"
+       id="text14208"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.95911px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="98.031677"
+         y="129.76791"
+         id="tspan14206">Udany </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.95911px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="98.031677"
+         y="133.4668"
+         id="tspan14212">handshake</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 97.895782,144.9917 H 156.63334"
+       id="path14220"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 156.63329,144.99169 v 10.58334"
+       id="path14962"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 97.895756,144.99169 v 10.58334"
+       id="path14976"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.33754px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.484772"
+       y="171.23955"
+       id="text14988"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.484772"
+         y="171.23955"
+         id="tspan14986">Nasłuchiwanie na</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="84.484772"
+         y="175.41147"
+         id="tspan15034">paczki danych</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleStart);stop-color:#000000"
+       id="path14990"
+       sodipodi:type="arc"
+       sodipodi:cx="97.895836"
+       sodipodi:cy="172.24373"
+       sodipodi:rx="14.552083"
+       sodipodi:ry="14.552083"
+       sodipodi:start="0.5669042"
+       sodipodi:end="6.0196406"
+       sodipodi:arc-type="arc"
+       d="M 110.1715,180.05853 A 14.552083,14.552083 0 0 1 92.779156,185.8666 14.552083,14.552083 0 0 1 83.51083,170.04493 14.552083,14.552083 0 0 1 97.082326,157.7144 14.552083,14.552083 0 0 1 111.94547,168.45285"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stop-color:#000000"
+       id="rect15038"
+       width="56.642715"
+       height="15.375001"
+       x="133.60728"
+       y="157.66251"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.80564px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.82379"
+       y="163.71063"
+       id="text15044"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="135.82379"
+         y="163.71063"
+         id="tspan15042">Wątek wysyłający</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.80564px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="135.82379"
+         y="169.71768"
+         id="tspan15062">polecenia do czujnika</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 143.98199,177.02082 c 0,21.16666 31.75,21.16666 31.75,0"
+       id="path15048"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.33754px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="140.77083"
+       y="198.99184"
+       id="text15054"><tspan
+         sodipodi:role="line"
+         id="tspan15050"
+         style="font-size:3.33754px;stroke-width:0.264583"
+         x="140.77083"
+         y="198.99184">nasłuchiwanie i działanie,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.33754px;stroke-width:0.264583"
+         x="140.77083"
+         y="203.16376"
+         id="tspan15052">nieskończona pętla</tspan></text>
+  </g>
+</svg>

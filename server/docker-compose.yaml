@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    restart: "no"
+    hostname: app
+    environment:
+      DONT_LOAD_DOTENV: 1
+      LISTEN_PORT: 7122
+      SERVE_PORT: 8081
+      ENABLE_MONITORING: 1
+      MONITORING_PATH: "/app/monitoring/report"
+    ports:
+      - "7122:7122"
+      - "8081:8081"
+    volumes:
+      - "./data:/data"
+      - "./monitoring:/app/monitoring"
+  ntp:
+    image: cturra/ntp:latest
+    restart: always
+    ports:
+      - "123:123/udp"

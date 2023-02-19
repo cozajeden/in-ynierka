@@ -1,0 +1,11 @@
+venv/*
+venv*
+.vscode/*
+*.csv
+*.pyc
+*.png
+*.jpg
+*.txt
+!*requirements.txt
+.idea
+temp.sh

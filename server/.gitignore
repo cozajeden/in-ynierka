@@ -1,0 +1,5 @@
+.idea
+data/*
+!data/.gitkeep
+monitoring/*
+!monitoring/.gitkeep

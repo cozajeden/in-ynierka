@@ -1,0 +1,38 @@
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{minted}
+% \usemintedstyle{monokai}
+% \usemintedstyle{manni}
+% \usemintedstyle{rrt}
+% \usemintedstyle{perldoc}
+% \usemintedstyle{borland}
+% \usemintedstyle{colorful}
+% \usemintedstyle{default}
+% \usemintedstyle{murphy}
+% \usemintedstyle{vs}
+% \usemintedstyle{trac}
+% \usemintedstyle{tango}
+% \usemintedstyle{fruity}
+% \usemintedstyle{autumn}
+% \usemintedstyle{bw}
+% \usemintedstyle{vim}
+\usemintedstyle{pastie}
+% \usemintedstyle{emacs}
+% \usemintedstyle{friendly}
+% \usemintedstyle{native}
+ 
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\newcommand{\python}[1]{\inputminted[linenos, breaklines, bgcolor=backcolour]{python}{#1}}
+\newcommand{\cpp}[1]{\inputminted[linenos, breaklines, bgcolor=backcolour]{C++}{#1}}
+\newcommand{\pythonl}[3]{\inputminted[firstline=#2, lastline=#3, linenos, breaklines, bgcolor=backcolour]{python}{#1}}
+\newcommand{\go}[1]{\inputminted[tabsize=4, linenos, breaklines, bgcolor=backcolour]{go}{#1}}
+\newcommand{\ini}[3]{\inputminted[firstline=#2, lastline=#3, linenos, breaklines, bgcolor=backcolour]{ini}{#1}}
+
+\newcommand{\itemc}[2]
+{\item\textbf{#1}
+\python{#2}}
+
+\newcommand{\itemcl}[4]
+{\item\textbf{#1}
+\pythonl{#2}{#3}{#4}}

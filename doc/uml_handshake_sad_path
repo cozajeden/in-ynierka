@@ -1,0 +1,5 @@
+Czujnik->Serwer:Nawiązanie połączenia TCP, \nwysłanie wiadomości handshake
+Serwer->Serwer: Przetworzenie żądania,\ngenerowanie odpowiedzi
+Serwer->Czujnik: Zwrócenie kodu błędu
+note over Serwer: Połączenie pozostaje otwarte,\ndopóki czujnik nie zamknie go sam
+Czujnik->Serwer: Wysłanie wiadomości\nhandshake...

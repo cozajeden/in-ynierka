@@ -1,0 +1,5 @@
+Pillow==9.2.0
+numpy==1.23.0
+matplotlib==3.5.2
+threaded==4.1.0
+tk==0.1.0

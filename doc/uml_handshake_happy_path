@@ -1,0 +1,3 @@
+Czujnik->Serwer:Nawiązanie połączenia TCP, \nwysłanie wiadomości handshake
+Serwer->Serwer: Przetworzenie żądania,\ngenerowanie odpowiedzi
+Serwer->Czujnik: Pomyślna autoryzacja, wysłanie\nstatusu Ok oraz nadanego ID
